@@ -10,12 +10,10 @@ on:
 jobs:
   job01:
     name: Executando o Job de Teste
-    runs-on: ubuntu-latest
-
-    # Steps represent a sequence of tasks that will be executed as part of the job
+    runs-on: ubuntu-latest    
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v3
+      - name: Step 1
+        uses: actions/checkout@v3
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
