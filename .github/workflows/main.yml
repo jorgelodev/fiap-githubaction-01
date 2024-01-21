@@ -9,7 +9,7 @@ on:
 
 jobs:
   job01:
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
