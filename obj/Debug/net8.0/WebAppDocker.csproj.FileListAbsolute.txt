@@ -1,0 +1,14 @@
+C:\Users\Jorge\OneDrive\Documents\Estudos\Pós Tech\WebAppDocker\bin\Debug\net8.0\WebAppDocker.exe
+C:\Users\Jorge\OneDrive\Documents\Estudos\Pós Tech\WebAppDocker\bin\Debug\net8.0\WebAppDocker.deps.json
+C:\Users\Jorge\OneDrive\Documents\Estudos\Pós Tech\WebAppDocker\bin\Debug\net8.0\WebAppDocker.runtimeconfig.json
+C:\Users\Jorge\OneDrive\Documents\Estudos\Pós Tech\WebAppDocker\bin\Debug\net8.0\WebAppDocker.dll
+C:\Users\Jorge\OneDrive\Documents\Estudos\Pós Tech\WebAppDocker\bin\Debug\net8.0\WebAppDocker.pdb
+C:\Users\Jorge\OneDrive\Documents\Estudos\Pós Tech\WebAppDocker\obj\Debug\net8.0\WebAppDocker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorge\OneDrive\Documents\Estudos\Pós Tech\WebAppDocker\obj\Debug\net8.0\WebAppDocker.AssemblyInfoInputs.cache
+C:\Users\Jorge\OneDrive\Documents\Estudos\Pós Tech\WebAppDocker\obj\Debug\net8.0\WebAppDocker.AssemblyInfo.cs
+C:\Users\Jorge\OneDrive\Documents\Estudos\Pós Tech\WebAppDocker\obj\Debug\net8.0\WebAppDocker.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\OneDrive\Documents\Estudos\Pós Tech\WebAppDocker\obj\Debug\net8.0\WebAppDocker.dll
+C:\Users\Jorge\OneDrive\Documents\Estudos\Pós Tech\WebAppDocker\obj\Debug\net8.0\refint\WebAppDocker.dll
+C:\Users\Jorge\OneDrive\Documents\Estudos\Pós Tech\WebAppDocker\obj\Debug\net8.0\WebAppDocker.pdb
+C:\Users\Jorge\OneDrive\Documents\Estudos\Pós Tech\WebAppDocker\obj\Debug\net8.0\WebAppDocker.genruntimeconfig.cache
+C:\Users\Jorge\OneDrive\Documents\Estudos\Pós Tech\WebAppDocker\obj\Debug\net8.0\ref\WebAppDocker.dll
