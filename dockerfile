@@ -11,3 +11,4 @@ WORKDIR /app
 COPY --from=build-env /app/out .
 # Define o comando de inicialização do aplicativo
 ENTRYPOINT ["dotnet", "WebAppDocker.dll"]
+
