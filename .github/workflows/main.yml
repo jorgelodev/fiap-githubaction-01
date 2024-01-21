@@ -1,1 +1,3 @@
+name: meu primeiro fluxo de trabalho
+on: [push]
 
