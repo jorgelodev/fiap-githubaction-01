@@ -10,7 +10,7 @@ on:
 jobs:
   job01:
     name: Executando o Job de Teste
-    runs-on: ubuntu:latest    
+    runs-on: ubuntu-latest  
     steps:
       - name: Step 1
         uses: actions/checkout@v3
