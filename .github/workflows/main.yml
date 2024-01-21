@@ -23,5 +23,5 @@ jobs:
         uses: docker/login-action@v3.0.0
         with:          
           username: 'jorgeoliveira'          
-          password:           
+          password: ${{ secrets.SECRETS }}        
           
